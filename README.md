@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Saqlain
 
-<!--
-**MdSaqlain02/MdSaqlain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Applications graduate from JSS Science and Technology University (SJCE), Mysuru  
+💻 Passionate about full-stack development, cloud technologies, and building impactful software  
+📍 Based in Mysuru, Karnataka, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I enjoy solving real-world problems through technology. With a solid foundation in programming and a growing interest in distributed systems, I'm currently expanding my skills in modern web development and cloud platforms.
+
+I'm a strong communicator and a quick learner who believes in writing clean, efficient, and scalable code. Whether it’s front-end design or back-end logic, I like understanding how systems work end-to-end.
+
+---
+
+##  Skills & Technologies
+
+- **Languages:** Java (OOP), JavaScript, Python (basics)
+- **Frontend:** HTML, CSS, JavaScript (React - learning)
+- **Backend:** Node.js (learning), Express.js
+- **Database:** MySQL, MongoDB (learning)
+- **Tools:** Git, GitHub, VS Code
+- **Foundations:** DBMS, Operating Systems, Computer Networks
+- **Exploring:** Docker, Kubernetes, CI/CD, AWS
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Real-Time Group Video Chat App](https://github.com/MdSaqlain02/Real-Time-Group-Video-Chat-App-WebRTC-React-Node.js)
+- Peer-to-peer group video/audio chat using WebRTC and Socket.IO
+- Features: Real-time communication, chat, screen sharing
+- Stack: JavaScript, Node.js, Express, WebRTC
+
+### 🔹 [Portfolio Website](https://github.com/MdSaqlain02/Portfolio-Website)
+- Responsive personal portfolio website
+- Showcases projects and career journey
+- Stack: HTML, CSS, JavaScript
+
+---
+
+## 📜 Certifications
+
+- Java Programming – Udemy  
+- MERN Stack Developer – Apna College *(In progress)*  
+- Software Testing – Academic coursework
+
+---
+
+## 🤝 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedsaqlain-dev)
+- 📧 shaikhsaqlain2003@gmail.com
+- 🖥️ [GitHub](https://github.com/MdSaqlain02)
+
+---
+
+-------------> “Always learning, always building.”  
