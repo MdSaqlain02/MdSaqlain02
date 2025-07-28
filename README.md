@@ -34,7 +34,8 @@ I'm a strong communicator and a quick learner who believes in writing clean, eff
 - Features: Real-time communication, chat, screen sharing
 - Stack: JavaScript, Node.js, Express, WebRTC
 
-### 🔹 [Portfolio Website](https://github.com/MdSaqlain02/Portfolio_saqlain)
+### 🔹 [Portfolio Website](https://github.com/MdSaqlain02/Portfolio_saqlain) 
+ ( https://mdsaqlain02.github.io/portfolio_saqlain/ )
 - Responsive personal portfolio website
 - Showcases projects and career journey
 - Stack: HTML, CSS, JavaScript
