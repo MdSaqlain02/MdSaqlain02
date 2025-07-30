@@ -3,6 +3,7 @@
 🎓 Computer Applications graduate from JSS Science and Technology University (SJCE), Mysuru  
 💻 Passionate about full-stack development, cloud technologies, and building impactful software  
 📍 Based in Mysuru, Karnataka, India
+ - Resume [https://drive.google.com/file/d/12juKjcDNMH6N02o-x5TxbYBpNr5HjxJC/view?usp=drive_link]
 
 ---
 
