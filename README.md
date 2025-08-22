@@ -47,14 +47,14 @@ I'm a strong communicator and a quick learner who believes in writing clean, eff
 
 - Java Programming – Udemy  
 - MERN Stack Developer – Apna College *(In progress)*  
-- Software Testing – Academic coursework
+- Software Engineering – Academic coursework
 
 ---
 
 ## 🤝 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedsaqlain-dev)
-- 📧 shaikhsaqlain2003@gmail.com
+- 📧 saqlainmohammed005@gmail.con
 - 🖥️ [GitHub](https://github.com/MdSaqlain02)
 
 ---
