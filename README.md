@@ -1,62 +1,102 @@
 # 👋 Hi, I'm Mohammed Saqlain
 
-🎓 Computer Applications graduate from JSS Science and Technology University (SJCE), Mysuru  
-💻 Passionate about full-stack development, cloud technologies, and building impactful software  
-📍 Based in Mysuru, Karnataka, India
- - Resume [https://drive.google.com/file/d/1VSxrllUfnNpKVf1SxFph3Xjif1wSmQKt/view?usp=sharing]
+🎓 **BCA Graduate** – JSS Science and Technology University (SJCE), Mysuru  
+☁️ **Aspiring Data Engineer | Cloud & ML Pipeline Builder**  
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I enjoy solving real-world problems through technology. With a solid foundation in programming and a growing interest in distributed systems, I'm currently expanding my skills in modern web development and cloud platforms.
+I’m passionate about **data engineering, cloud platforms, and building scalable end-to-end ML pipelines**.  
+I work extensively with **Google Cloud Platform**, designing solutions that integrate data ingestion, processing, analytics, and machine learning.
 
-I'm a strong communicator and a quick learner who believes in writing clean, efficient, and scalable code. Whether it’s front-end design or back-end logic, I like understanding how systems work end-to-end.
+With a strong foundation in **programming, analytics, and distributed systems**, I enjoy solving real-world problems through data. I’m also a quick learner with strong communication skills, always exploring new technologies and best practices.
 
 ---
 
-##  Skills & Technologies
+## 🛠️ Skills & Technologies
 
-- **Languages:** Java (OOP), JavaScript, Python (basics)
-- **Frontend:** HTML, CSS, JavaScript (React - learning)
-- **Backend:** Node.js (learning), Express.js
-- **Database:** MySQL, MongoDB (learning)
-- **Tools:** Git, GitHub, VS Code
-- **Foundations:** DBMS, Operating Systems, Computer Networks
-- **Exploring:** Docker, Kubernetes, CI/CD, AWS
+### ☁️ Cloud & Data Engineering
+- **Google Cloud Platform (GCP)**
+  - BigQuery  
+  - Cloud Storage  
+  - Cloud Pub/Sub  
+  - Dataflow (Apache Beam)  
+  - Cloud Composer (Airflow)  
+  - Vertex AI (Training, Prediction, Pipelines)  
+  - IAM & Service Accounts  
+
+### 📊 Data & ML Engineering
+- Data Cleaning, Preprocessing & Feature Engineering  
+- ML Model Training & Evaluation  
+- BigQuery ML  
+- Vertex AI Model Deployment  
+- End-to-End ML Pipelines  
+- Real-time & batch data processing  
+
+### 💻 Programming
+- Python  
+- SQL  
+- Java (OOP)  
+- JavaScript (Basics)
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+- Docker (Learning)  
+- CI/CD (Learning)
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 [Real-Time Group Video Chat App](https://github.com/MdSaqlain02/Real-Time-Group-Video-Chat-App-WebRTC-React-Node.js)
-( https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view?usp=drivesdk )
-- Peer-to-peer group video/audio chat using WebRTC and Socket.IO
-- Features: Real-time communication, chat, screen sharing
-- Stack: JavaScript, Node.js, Express, WebRTC
+### 🔹 **AI-Powered Financial Transaction Categorisation System (GCP)**
+**GHCI 2025 Hackathon – Round 2**
 
-### 🔹 [Portfolio Website](https://github.com/MdSaqlain02/Portfolio_saqlain) 
- ( https://mdsaqlain02.github.io/portfolio_saqlain/ )
-- Responsive personal portfolio website
-- Showcases projects and career journey
-- Stack: HTML, CSS, JavaScript
+- Built a complete **ML pipeline** on GCP for noisy transaction categorisation  
+- Tools used: **BigQuery, Dataflow, Vertex AI, Cloud Storage, Cloud Composer**  
+- Achieved **0.94 F1 score** in Phase 1  
+- Implemented **active learning** with labelled + unlabelled samples  
+- Automated data ingestion, preprocessing, prediction & storage  
+- Designed scalable **MLOps flow** with Composer orchestrations  
+
+---
+
+### 🔹 **Real-Time Group Video Chat App**
+**(WebRTC + Node.js)**  
+🔗 GitHub: https://github.com/MdSaqlain02/Real-Time-Group-Video-Chat-App-WebRTC-React-Node.js  
+🎥 Demo: https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view
+
+- Peer-to-peer communication using **WebRTC**  
+- Real-time video, audio, messaging & screen sharing  
+- Mesh architecture using **simple-peer**  
+- Backend using **Node.js + Express + Socket.IO**
+
+---
+
+### 🔹 **Portfolio Website**
+🔗 GitHub: https://github.com/MdSaqlain02/Portfolio_saqlain  
+🌐 Live: https://mdsaqlain02.github.io/portfolio_saqlain/
+
+- Responsive personal portfolio  
+- Built with **HTML, CSS, JavaScript**
 
 ---
 
 ## 📜 Certifications
-
-- Java Programming – Udemy  
-- MERN Stack Developer – Apna College *(In progress)*  
-- Software Engineering – Academic coursework
+- **GCP Data Engineer Training – Varaahi Cloud Technologies** 
+- Java Programming – Udemy    
+- Software Engineering – Academic Coursework  
 
 ---
 
 ## 🤝 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedsaqlain-dev)
-- 📧 saqlainmohammed005@gmail.con
-- 🖥️ [GitHub](https://github.com/MdSaqlain02)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohammedsaqlain-dev  
+- 🖥️ **GitHub:** https://github.com/MdSaqlain02  
+- 📧 **Email:** saqlainmohammed005@gmail.com  
 
 ---
 
--------------> “Always learning, always building.”<-----------------  
+### _“Always learning, always building.”_
