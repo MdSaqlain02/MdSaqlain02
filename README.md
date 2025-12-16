@@ -20,8 +20,6 @@ With a strong foundation in **programming, analytics, and distributed systems**,
 - **Google Cloud Platform (GCP)**
   - BigQuery  
   - Cloud Storage  
-  - Cloud Pub/Sub  
-  - Dataflow (Apache Beam)  
   - Cloud Composer (Airflow)  
   - Vertex AI (Training, Prediction, Pipelines)  
   - IAM & Service Accounts  
@@ -32,7 +30,6 @@ With a strong foundation in **programming, analytics, and distributed systems**,
 - BigQuery ML  
 - Vertex AI Model Deployment  
 - End-to-End ML Pipelines  
-- Real-time & batch data processing  
 
 ### 💻 Programming
 - Python  
@@ -44,15 +41,12 @@ With a strong foundation in **programming, analytics, and distributed systems**,
 - Git & GitHub  
 - Jupyter Notebook  
 - VS Code  
-- Docker (Learning)  
-- CI/CD (Learning)
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 **AI-Powered Financial Transaction Categorisation System (GCP)**
-**GHCI 2025 Hackathon – Round 2**
 
 - Built a complete **ML pipeline** on GCP for noisy transaction categorisation  
 - Tools used: **BigQuery, Dataflow, Vertex AI, Cloud Storage, Cloud Composer**  
