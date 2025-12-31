@@ -1,96 +1,49 @@
-# 👋 Hi, I'm Mohammed Saqlain
+👋 Hi, I'm Mohammed Saqlain
+Aspiring Cloud Engineer | Cloud Monitoring & Infrastructure Specialist
+I am a BCA Graduate (2025) from JSS Science and Technology University (SJCE) with a strong foundation in Cloud Infrastructure and System Observability. I specialize in leveraging Google Cloud Platform (GCP) to build, monitor, and troubleshoot scalable data environments.
 
-🎓 **BCA Graduate** – JSS Science and Technology University (SJCE), Mysuru  
-☁️ **Aspiring Data Engineer | Cloud & ML Pipeline Builder**  
+My goal is to ensure high system availability and performance by combining a developer’s logic with an operations mindset.
 
----
+🚀 Technical Core (Cloud & Monitoring Focus)
+Cloud Platforms: Google Cloud Platform (GCP) — Proficient in IAM, VPCs, and Resource Management.
 
-## 🚀 About Me
+Monitoring & Reliability: GCP Monitoring & Logging, Alerting Policies, Health Checks.
 
-I’m passionate about **data engineering, cloud platforms, and building scalable end-to-end ML pipelines**.  
-I work extensively with **Google Cloud Platform**, designing solutions that integrate data ingestion, processing, analytics, and machine learning.
+Automation & Scripting: Python (Automation & ELT), SQL (Data Troubleshooting/BigQuery), Airflow (Orchestration).
 
-With a strong foundation in **programming, analytics, and distributed systems**, I enjoy solving real-world problems through data. I’m also a quick learner with strong communication skills, always exploring new technologies and best practices.
+Containerization: Docker (Packaging and deploying consistent environments).
 
----
+Data Infrastructure: BigQuery, Cloud Storage, Dataflow, Vertex AI.
 
-## 🛠️ Skills & Technologies
+🛠️ Key Projects (Infrastructure & Monitoring)
+🔹 End-to-End MLOps Pipeline (GCP)
+Designed a financial transaction categorization system with a focus on pipeline reliability and automated recovery.
 
-### ☁️ Cloud & Data Engineering
-- **Google Cloud Platform (GCP)**
-  - BigQuery  
-  - Cloud Storage  
-  - Cloud Composer (Airflow)  
-  - Vertex AI (Training, Prediction, Pipelines)  
-  - IAM & Service Accounts  
+Monitoring: Used Cloud Composer (Airflow) to monitor task statuses and handle automated retries.
 
-### 📊 Data & ML Engineering
-- Data Cleaning, Preprocessing & Feature Engineering  
-- ML Model Training & Evaluation  
-- BigQuery ML  
-- Vertex AI Model Deployment  
-- End-to-End ML Pipelines  
+Optimization: Debugged pipeline bottlenecks within BigQuery and Dataflow to maintain a high F1 score of 0.94.
 
-### 💻 Programming
-- Python  
-- SQL  
-- Java (OOP)  
-- JavaScript (Basics)
+Scale: Orchestrated the flow of data from raw storage to production-ready ML models using Vertex AI.
 
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- Jupyter Notebook  
-- VS Code  
+🔹 Real-Time Peer-to-Peer Platform (WebRTC)
+Built a low-latency video chat application where uptime and connection stability were the primary metrics.
 
----
+Managed real-time socket events and handled network failovers for a seamless user experience.
 
-## 🚀 Projects
+📜 Certifications & Values
+GCP Data Engineer Training – Focused on secure and efficient cloud resource utilization.
 
-### 🔹 **AI-Powered Financial Transaction Categorisation System (GCP)**
+Operations Mindset: Strong troubleshooting skills, eager to work in 24/7 rotational shifts, and committed to rapid incident response.
 
-- Built a complete **ML pipeline** on GCP for noisy transaction categorisation  
-- Tools used: **BigQuery, Dataflow, Vertex AI, Cloud Storage, Cloud Composer**  
-- Achieved **0.94 F1 score** in Phase 1  
-- Implemented **active learning** with labelled + unlabelled samples  
-- Automated data ingestion, preprocessing, prediction & storage  
-- Designed scalable **MLOps flow** with Composer orchestrations  
+Continuous Learner: Fast at picking up new monitoring tools like Kibana, Grafana, or Datadog.
 
----
+🤝 Connect with Me
+I am actively looking for opportunities to contribute to Cloud Operations and Site Reliability (SRE) teams.
 
-### 🔹 **Real-Time Group Video Chat App**
-**(WebRTC + Node.js)**  
-🔗 GitHub: https://github.com/MdSaqlain02/Real-Time-Group-Video-Chat-App-WebRTC-React-Node.js  
-🎥 Demo: https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view
+LinkedIn: mohammedsaqlain-dev
 
-- Peer-to-peer communication using **WebRTC**  
-- Real-time video, audio, messaging & screen sharing  
-- Mesh architecture using **simple-peer**  
-- Backend using **Node.js + Express + Socket.IO**
+Portfolio: mdsaqlain02.github.io
 
----
+GitHub: MdSaqlain02
 
-### 🔹 **Portfolio Website**
-🔗 GitHub: https://github.com/MdSaqlain02/Portfolio_saqlain  
-🌐 Live: https://mdsaqlain02.github.io/portfolio_saqlain/
-
-- Responsive personal portfolio  
-- Built with **HTML, CSS, JavaScript**
-
----
-
-## 📜 Certifications
-- **GCP Data Engineer Training – Varaahi Cloud Technologies** 
-- Java Programming – Udemy    
-- Software Engineering – Academic Coursework  
-
----
-
-## 🤝 Connect with Me
-
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohammedsaqlain-dev  
-- 🖥️ **GitHub:** https://github.com/MdSaqlain02  
-- 📧 **Email:** saqlainmohammed005@gmail.com  
-
----
-
-### _“Always learning, always building.”_
+Email: saqlainmohammed005@gmail.com
